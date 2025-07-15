@@ -1,1 +1,1 @@
-# Advanced-Web-Applications-2025-Summer-Course
+# Advanced Web Applications 2025 Summer Course
